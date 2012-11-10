@@ -1,5 +1,8 @@
+#gbq1 {
+  display: none!important;
+}
 #gbqlt {
-  display:none!important;
+  display: none!important;
 }
 div.section_header_holder {
   margin-top: 0 !important;
@@ -500,7 +503,6 @@ a:hover .tree-item-action-container,
 }
 /*Chevrons*/
 .entry .entry-title .entry-title-go-to,
-#entries.list .collapsed .entry-main .entry-original,
 #chrome-title .chevron {
   display: none !important;
 }
@@ -509,7 +511,7 @@ a:hover .tree-item-action-container,
   margin-right: 7em !important;
 }
 #entries .collapsed .entry-date {
-  margin: 0 2px 0 0 !important;
+  margin: 0 2em 0 0 !important;
 }
 /*EntryActions*/
 .card-common .card-actions,
