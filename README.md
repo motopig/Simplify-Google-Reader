@@ -8,8 +8,8 @@ Clarifies google reader and makes reading interface fair and distinct. Hope you 
 
 Screenshot
 ----------
-![Alt text](http://s3.amazonaws.com/uso_ss/19183/large.png?1352515279 "
-Effect diagram")
+![Alt text](https://github.com/kshiftlv/Simplify-Google-Reader/raw/master/Screenshot0.png "
+Screenshot0")
 
 License
 -------
