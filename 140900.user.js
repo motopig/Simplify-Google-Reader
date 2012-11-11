@@ -29,7 +29,7 @@ function ApplyCSS() {
   GM_addStyle(cssDefalut);
 }
 unsafeWindow.ShowSearchBar = function() {
-  var cssSearchBar = "#gbx1,#gbq{display:block!important;}#gb{height:0!important;}#gbq{width:0!important;margin-top:-5px!important;left:548px!important}#gbqfqw{width:180px!important;}#gbqfbw{display:none!important;}";
+  var cssSearchBar = "#gbx1,#gbq{display:block!important;}#gb{height:0!important;}#gbq{width:0!important;margin-top:-5px!important;left:568px!important}#gbqfqw{width:180px!important;}#gbqfbw{display:none!important;}";
   GM_addStyle(cssSearchBar);
 }
 ApplyCSS();
