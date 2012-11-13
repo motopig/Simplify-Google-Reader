@@ -496,11 +496,6 @@ a:hover .tree-item-action-container,
 .lhn-section-no-unread-counts .folder .folder .name-text.folder-name-text {
   max-width: 138px !important;
 }
-/*SideNavIcons*/
-#lhn-selectors .selector-icon,
-.scroll-tree .icon {
-  width: 0 !important;
-}
 /*Chevrons*/
 .entry .entry-title .entry-title-go-to,
 #chrome-title .chevron {
